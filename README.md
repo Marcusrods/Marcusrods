@@ -22,7 +22,7 @@ What you'll find here is original technical work from the Masters in Big Data an
 
 ### Pinned repos, what they prove
 
-- [**flight-data-platform**](https://github.com/Marcusrods/flight-data-platform). FastAPI service, Docker, pytest, AWS S3 ingest. Production-shaped Python on real ADSB flight data. Engineering proof.
+- [**flight-data-s3-ingest**](https://github.com/Marcusrods/flight-data-s3-ingest). FastAPI service that ingests ADS-B Exchange flight data into AWS S3. Concurrency, boto3, pytest, Docker. Engineering proof.
 - [**bcn-architecture-cnn**](https://github.com/Marcusrods/bcn-architecture-cnn). End-to-end computer vision pipeline. Image scrape, label, ResNet-18 transfer learning, evaluation. Deep learning proof.
 - [**reddit-streaming-pipeline**](https://github.com/Marcusrods/reddit-streaming-pipeline). Live Reddit comments via PRAW, JSON over TCP, Spark Streaming consumer. Distributed and real-time proof.
 - [**dax40-equity-analysis**](https://github.com/Marcusrods/dax40-equity-analysis). Web scraping, Google Finance API, spaCy NER, sector visualisations. Multi-phase ETL on real financial data.

@@ -38,4 +38,4 @@ What you'll find here is original technical work from the Masters in Big Data an
 
 ### Contact
 
-Email [marcus@themagnagroupsa.com](mailto:marcus@themagnagroupsa.com).
+Email [marcusrods@icloud.com](mailto:marcusrods@icloud.com). LinkedIn [marcus-rodrigues-a8a5b15a](https://www.linkedin.com/in/marcus-rodrigues-a8a5b15a).
